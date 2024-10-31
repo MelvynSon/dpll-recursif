@@ -12,45 +12,7 @@ OCaml. Vous devez compléter pour cela le code dans le fichier dpll.ml :
  - la fonction pur : int list list -> int
  - la fonction solveur_dpll_rec : int list list -> int list -> int list option
 
-Documentation 
--------------
-
-Une attention particulière sera portée sur la documentation de votre
-code : la pertinence et la clarté de cette dernière comptera pour un
-pourcentage important de votre note finale. Vous devrez donc soigner
-les explications qui accompagneront votre code et ce sur deux volets
-principaux :
-
-1. Le fichier RENDU contient des questions précises sur votre
-   implémentation. Vous êtes requis d'y répondre en complétant le même
-   fichier, qui devra faire partie de votre rendu final. Vos réponses
-   doivent être claires, précises et préférablement succinctes. À la
-   lecture de vos réponses, une compréhension globale, sans ambiguïté,
-   de votre implémentation devra facilement se dégager.
-
-   Un mini-projet sans fichier RENDU rempli ne recevra pas de note.
-
-2. Vous devez impérativement commenter votre code dans le but de
-   complémenter les explications fournies lors du remplissage du
-   fichier RENDU (volet 1 ci-dessus). Dans le même esprit, vos
-   commentaires doivent être clairs et précis, ils doivent donner une
-   compréhension plus fine des détails de votre implémentation.
-
-   Un code non commenté entraînera automatiquement une note finale
-   lourdement pénalisée.
-
-Code correct vs. code optimisé
-------------------------------
-
-Assurez-vous que votre code compile avant de le rendre.
-
-En outre, vous devez prioriser vos objectifs d'une manière saine : un
-code correct et lent est meilleur qu'un code erroné et
-rapide. Résolvez le problème, puis optimiser votre code (do it right,
-then do it better). Une implémentation optimisée n'aura un impact
-positif sur votre note finale que si elle est correcte.
-
-Tester son mini-projet
+Tester le mini-projet
 ----------------------
 
 Outre les exemples de test inclus dans dpll.ml (exemple_3_12,
